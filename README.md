@@ -1,0 +1,2 @@
+# -Smart-Student-Enrollment-Learning-Portal-Salesforce-CRM-for-Education
+Educational institutes face challenges in managing student inquiries, admissions, and course enrollments due to manual processes. This causes delays, missed follow-ups, and inefficiency. A Salesforce-based portal will automate lead capture, admissions, fee tracking, and notifications, ensuring faster enrollment and better reporting.
